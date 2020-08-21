@@ -1,3 +1,13 @@
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+__author__ = 'TangCH'
+
+'''
+turtle execise.
+'''
+
 # 导入turtle包的所有内容:
 from turtle import *
 
